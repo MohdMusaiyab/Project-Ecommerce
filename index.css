@@ -161,7 +161,7 @@ header.sticky{
 }
 /* our images are the porblem */
 .row img:hover{
-    transform: scale(0.9);
+    transform: scale(1.1);
 }
 .product-text h5{
     position: absolute;
