@@ -19,7 +19,7 @@ header{
     padding: 20px 10%;
 }
 .logo img{
-    max-width: 120px;
+    max-width: 65px;
     height: auto;
 }
 .navmenu{
@@ -129,7 +129,7 @@ section{
 }
 header.sticky{
     background-color: #fff;
-    padding: 20px 10%;
+    padding: 10px 10% 0px 10%;
     box-shadow: 0px 0px 10px rgb(0 0 0 / 10%);
 }
 /* trending section css */
